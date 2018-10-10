@@ -20,7 +20,7 @@ Separation of
 @ul
 - reusable commodity features
 - solves most of the problems in the microservice world
-- more freedom for choosing a technology as functionality is already and no library has to exist for the chosen technology
+- more freedom for choosing a technology as networking functionality is already implemented and no library has to exist for the chosen technology
 @ulend
 ---
 ### Cons
