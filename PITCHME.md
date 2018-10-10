@@ -12,7 +12,6 @@ Separation of
 @ul
 - inter-service communication infrastructure
 - all service-to-service communication will take place on top of a „service mesh“ aka sidecar service
-- network logic (inter-service communication via http, resilience patterns, service discovery …)
 - mesh provides support for network functions like resiliency, service discovery, client-side load balancing, monitoring... etc
 - service mesh proxies communication via protocols like HTTP or gRPC -> language agnostic
 @ulend
